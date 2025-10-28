@@ -13,3 +13,5 @@ Internally, the calculator tracks two operands (l and r), a result, and the curr
 * [Windows EXE](https://github.com/ArastooOrg/portfolio-for-2025/blob/main/src/Calculator/windows-amd64.zip)
 * [MacOSX](https://github.com/ArastooOrg/portfolio-for-2025/blob/main/src/Calculator/macos-aarch64.zip)
 * [Source Code](https://github.com/ArastooOrg/portfolio-for-2025/tree/main/src/Calculator)
+
+![CALCULATOR DIAGRAM](https://github.com/ArastooOrg/portfoliofor2025/blob/main/src/Calculator/CALCULATOR%20DIAGRAM.jpeg)

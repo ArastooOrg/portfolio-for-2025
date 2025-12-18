@@ -2,6 +2,7 @@
 Email: aristotle.c.stokes@gmail.com
 
 ## Certifications:
+![Programing One Certification](https://github.com/ArastooOrg/portfolio-for-2025/blob/main/images/Programming%20One%20Certificaiton.png?raw=true)
 
 ## Projects for Term 1
 

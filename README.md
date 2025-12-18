@@ -18,8 +18,7 @@ Internally, the calculator tracks two operands (l and r), a result, and the curr
 * [MacOSX](https://github.com/ArastooOrg/portfolio-for-2025/blob/main/src/Calculator/macos-aarch64.zip)
 * [Source Code](https://github.com/ArastooOrg/portfolio-for-2025/tree/main/src/Calculator)
 
-![CALCULATOR DIAGRAM](https://github.com/ArastooOrg/portfoliofor2025/blob/main/src/Calculator/CALCULATOR%20DIAGRAM.jpeg)
+![CALCULATOR DIAGRAM](https://github.com/ArastooOrg/portfoliofor2025/blob/main/src/Calculator/CALCULATOR%20DIAGRAM.jpeg?raw=true)
 
 ## Projects for Term 2
 
-### Making Cars (2025)

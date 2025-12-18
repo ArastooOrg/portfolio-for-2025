@@ -1,4 +1,5 @@
 # Ari Stokes Programming Portfolio
+Email: aristotle.c.stokes@gmail.com
 
 ## Projects for Term 1
 

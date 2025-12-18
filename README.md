@@ -1,6 +1,8 @@
 # Ari Stokes Programming Portfolio
 Email: aristotle.c.stokes@gmail.com
 
+##Certifications:
+
 ## Projects for Term 1
 
 ### Calculator (2025)

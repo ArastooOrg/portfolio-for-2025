@@ -12,7 +12,10 @@ void draw() {
   histEvent(100,150,"Colossus-1944",true,"The Colossus Computer was created in the UK by the British government to crack nazi codes in WW2.");
   histEvent(200,250,"Eniac-1946",false,"The Eniac Computer was created in the United States by the U.S. government \n to calculate artillery firing tables during WW2.");
   histEvent(300,150,"Manchester-1948",true,"The Manchester Baby Computer was created in the UK by Frederic Williams, Tom Kilburn, and Geoff Tootill \n to test the Williams-Kilburn tube.");
-  histEvent(400,250,"IBM S/360-1964",false,"The IBM System/360 Computer was created in the 
+  histEvent(500,150,"IBM 5150-1981",true,"The IBM 5150 was created in the US by IBM to be a personal computer that normal people could afford.");
+  histEvent(600,250,"Sinclair-1981",false,"The Sinclair ZX81 was created in the UK by Sinclair Research Ltd. \n to be cheap, small, and minimal for the everyday consumer.");
+  histEvent(700,150,"Macintosh-1984",true,"The Apple Macintosh was designed in the US by Apple to have an intuitive \n graphical user interface at an affordable cost.");
+  histEvent(800,250,"ThinkPad-1991",false,"The IBM ThinkPad 700 series was designed in the US by IBM \n which was considered to be one of the first modern laptops \n with a powerful precessor and was portable.");
 }
 
 void drawRef() {

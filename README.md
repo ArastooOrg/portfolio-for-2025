@@ -28,6 +28,13 @@ During the draw loop, the background is refreshed and every car is displayed and
 
 * [Source Code](https://github.com/ArastooOrg/portfolio-for-2025/tree/main/src/MakingCars)
 
+### History of the Computer (2025)
+
+This application is a Processing sketch that presents a visual timeline of important historical computer systems. In the setup, a wide canvas is created to allow space for a horizontal timeline, and the draw loop continuously redraws the background and timeline elements. The `drawRef()` function is responsible for rendering the title, author name, and the main timeline line with start and end markers representing the span of years. Several historical events are then placed along the timeline using the `histEvent()` function, each positioned at a specific x-coordinate to reflect its place in time and alternated above or below the timeline for visual clarity.
+
+Each historical event is displayed as a labeled rectangle connected to the timeline by a line, making the progression of computer history easy to follow. When the user moves the mouse over an event box, additional descriptive text appears at the bottom of the screen, providing more detailed information about that computer system and its purpose. This interactive feature encourages exploration and helps users learn by hovering over different points in the timeline. Overall, the application combines text, shapes, and user interaction to effectively communicate the evolution of computer technology in a clear and engaging way.
+
+
 
 ## Projects for Term 2
 

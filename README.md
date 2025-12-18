@@ -34,7 +34,9 @@ This application is a Processing sketch that presents a visual timeline of impor
 
 Each historical event is displayed as a labeled rectangle connected to the timeline by a line, making the progression of computer history easy to follow. When the user moves the mouse over an event box, additional descriptive text appears at the bottom of the screen, providing more detailed information about that computer system and its purpose. This interactive feature encourages exploration and helps users learn by hovering over different points in the timeline. Overall, the application combines text, shapes, and user interaction to effectively communicate the evolution of computer technology in a clear and engaging way.
 
+![The History of the Computer](https://github.com/ArastooOrg/portfolio-for-2025/blob/main/images/History%20of%20the%20Computer.png?raw=true)
 
+* [Source Code](https://github.com/ArastooOrg/portfolio-for-2025/tree/main/src/The_History_of_the_Computer)
 
 ## Projects for Term 2
 

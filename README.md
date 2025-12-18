@@ -24,6 +24,8 @@ This application is a Processing sketch that simulates cars moving across the sc
 
 During the draw loop, the background is refreshed and every car is displayed and moved across the screen. The `display()` method draws each car using rectangles to represent the body and wheels, with slight visual differences depending on whether the car is moving left or right. The `move()` method updates the car’s position based on its speed and direction, creating smooth horizontal motion. When a car reaches one side of the screen, it wraps around to the opposite side, allowing the animation to continue endlessly. Overall, this application demonstrates how arrays, classes, and methods work together to create a dynamic and visually engaging animation.
 
+![Making Cars](https://github.com/ArastooOrg/portfolio-for-2025/blob/main/images/Making%20Cars.png?raw=true)
+
 
 ## Projects for Term 2
 

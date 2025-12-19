@@ -46,5 +46,7 @@ The program uses a custom function to convert GPA values into standard letter gr
 
 ![If Structure](https://github.com/ArastooOrg/portfolio-for-2025/blob/main/images/If%20Structure%20Running.png?raw=true)
 
+* [Source Code](https://github.com/ArastooOrg/portfolio-for-2025/tree/main/src/IfStructure)
+
 ## Projects for Term 2
 

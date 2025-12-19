@@ -50,3 +50,20 @@ The program uses a custom function to convert GPA values into standard letter gr
 
 ## Projects for Term 2
 
+### Musik Helfer
+
+This application, called Musik Helfer, is a multi-tool music practice program built in Processing that combines several core tools musicians commonly need into a single interface. The app opens with a main menu that lets the user switch between four modes: pitch ear training, a tuner, an auto-harmonizer, and a metronome. Each mode is visually separated and controlled using custom buttons, making the program easy to navigate while practicing. The overall goal of the application is to help musicians develop accuracy, timing, and theoretical understanding in an interactive way.
+
+The pitch ear training mode focuses on interval recognition. When the user presses the play button, the program randomly selects two notes, plays them sequentially, and calculates the interval between them. The user then chooses which interval they believe was played by selecting one of the labeled buttons. The program provides immediate feedback using visual flashes: green for correct answers and red for incorrect ones. This mode helps train relative pitch and reinforces interval identification, which is an essential skill for musicians.
+
+The tuner mode allows users to play reference pitches for all twelve chromatic notes. Each note has its own button, and pressing one plays a sound file corresponding to that pitch. The currently selected note is displayed prominently on the screen, and a draggable volume slider lets the user control playback loudness. This mode is useful for tuning instruments by ear and for reinforcing pitch memory without relying on an external tuner.
+
+The auto-harmonizer and metronome modes focus on theory and timing. In the harmonizer, users can input notes onto a staff, choose note durations, add accidentals, switch clefs, and then generate a harmonized chord based on the entered melody. The resulting chord is displayed both textually and visually on a staff, and it can be played back using sound files. The metronome mode allows users to adjust tempo, start and stop playback, and receive both audio and visual beat feedback. Together, these features make Musik Helfer a comprehensive practice aid that supports musicians in developing ear training, rhythm, tuning, and harmonic awareness. 
+
+My personal contributions were creating the Metronome, the gradient on the side bar, and the logo. My team members were Mo Spiegel, Ethan Tang, Simon Sakata, and Kai Yun Chao.
+
+![Musik Helfer](https://github.com/ArastooOrg/portfolio-for-2025/blob/main/images/Musik%20Helfer%20Start%20Screen.png?raw=true)
+
+![Musik Helfer Running](https://github.com/ArastooOrg/portfolio-for-2025/blob/main/images/Musik%20Helfer%20Running.png?raw=true)
+
+*[Project Repository](https://github.com/Kai535813/Musikhelfer)

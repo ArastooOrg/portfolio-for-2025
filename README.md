@@ -38,5 +38,13 @@ Each historical event is displayed as a labeled rectangle connected to the timel
 
 * [Source Code](https://github.com/ArastooOrg/portfolio-for-2025/tree/main/src/The_History_of_the_Computer)
 
+### If Structure
+
+This project is an interactive grade converter created using Processing that visually maps numeric GPA values to letter grades. The program displays a horizontal scale across the window with evenly spaced tick marks and labels, allowing users to see how GPA values are distributed. As the mouse moves left and right across the screen, a small indicator follows the cursor and displays the corresponding GPA value in real time. This makes the relationship between numeric grades and letter grades easy to understand and visually intuitive.
+
+The program uses a custom function to convert GPA values into standard letter grades based on defined thresholds. The calculated letter grade is shown at the bottom of the window and updates dynamically as the mouse position changes. By combining graphical elements, user interaction, and conditional logic, this project demonstrates how visual programming can be used to represent abstract academic data in a clear and engaging way.
+
+![If Structure](https://github.com/ArastooOrg/portfolio-for-2025/blob/main/images/If%20Structure%20Running.png?raw=true)
+
 ## Projects for Term 2
 

@@ -66,4 +66,4 @@ My personal contributions were creating the Metronome, the gradient on the side 
 
 ![Musik Helfer Running](https://github.com/ArastooOrg/portfolio-for-2025/blob/main/images/Musik%20Helfer%20Running.png?raw=true)
 
-*[Project Repository](https://github.com/Kai535813/Musikhelfer)
+* [Project Repository](https://github.com/Kai535813/Musikhelfer)
